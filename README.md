@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdammara
-- 👀 I’m interested in building website and mobile apps
-- 🌱 I’m currently learning web development, and flutter
+- 👀 I’m interested in software engineering builds, building website and mobile apps
+- 🌱 I’m currently learning Golang, C, web development, and flutter
 - 💞️ I’m looking to collaborate on app making projects
 - 📫 How to reach my email richarddammara@gmail.com
 <!---
